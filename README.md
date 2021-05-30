@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - In my spare time i like reading, playing videogames, walking and travelling ✈️🚶🎮📘
 
-####Education
+#### Education
 - Bachelor degree in Computer Engineering at [Università degli studi di Palermo](https://www.unipa.it/)
 - Master degree in Computer Engineering at [Politecnico di Torino](https://www.polito.it/) *(currently enrolled)*

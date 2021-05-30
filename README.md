@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Gabriele and I'm currently enrolled as a Software Engineering master student at Politecnico of Turin 🎓
+
+- I love computer science, technology and everything related to it, coding in particular. I am always excited to learn new things about IT and to work on interesting and challenging projects 💻
+
+- In my spare time i like reading, playing videogames, walking and travelling ✈️🚶🎮📘
+
+####Education
+- Bachelor degree in Computer Engineering at [Università degli studi di Palermo](https://www.unipa.it/)
+- Master degree in Computer Engineering at [Politecnico di Torino](https://www.polito.it/) *(currently enrolled)*

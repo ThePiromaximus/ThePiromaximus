@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About me
 - I'm Gabriele and I'm currently enrolled as a Software Engineering master student at Politecnico of Turin 🎓
 
-- I love computer science, technology and everything related to it, coding in particular. I am always excited to learn new things about IT and to work on interesting and challenging projects 💻
+- I love computer science, technology and everything related to it: programming, machine learning and data science are my favourite areas of interests. I am always excited to learn new things about IT and to work on interesting and challenging projects 💻
 
 - In my spare time i like reading, playing videogames, walking and travelling ✈️🚶🎮📘
 

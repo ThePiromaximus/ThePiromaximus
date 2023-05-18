@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-- Hi! I'm Gabriele, a Machine Learning Engineer from Italy 
+- Hi! I'm Gabriele, a Deep Learning Researcher from Italy 
 
 - I love computer science, technology and everything related to it. In particular, I'm really passionate about machine learning and data science. I am always excited to learn new things about IT and to work on interesting and challenging projects 💻
 

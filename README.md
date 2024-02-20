@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-- Hi! I'm Gabriele, a Deep Learning Researcher from Italy 
-
-- I love computer science, technology and everything related to it. In particular, I'm really passionate about machine learning and data science. I am always excited to learn new things about IT and to work on interesting and challenging projects 💻
-
-- In my spare time i like reading, playing videogames, walking and travelling ✈️🚶🎮📘
+Hi there! I'm Gabriele, a PhD student from Italy. I received my M.Sc. in Computer Engineering from the Politecnico di Torino in 2022. After more than an year working as a Deep Learning Research Engineer I decided to start a PhD; currently I'm pursuing a PhD in Deep Learning, as a result of a joint collaboration between the Politecnico di Torino and the European Space Agency (ESA), within the Open Space Innovation Platform (OSIP) Framework. 
+My main research interests include computer vision, representation learning, remote sensing and much more!
 
 ## Education
-- Bachelor degree in Computer Engineering at [Università degli studi di Palermo](https://www.unipa.it/)
-- Master degree in Computer Engineering at [Politecnico di Torino](https://www.polito.it/)
+- Bachelor degree in Computer Engineering at [Università degli studi di Palermo](https://www.unipa.it/) [2017-2020]
+- Master degree in Computer Engineering at [Politecnico di Torino](https://www.polito.it/) [2020-2022]
+- Ph.D. in Deep Learning at [Politecnico di Torino](https://www.polito.it/) and [European Space Agency](https://www.esa.int/) [2024-Present]
